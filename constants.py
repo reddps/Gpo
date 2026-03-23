@@ -38,6 +38,7 @@ DROPS = {
         ("Wings of Roses",                  "~5%"),
         ("Cupid Scarf",                     "~5%"),
         ("Love Witch's Hat",                "~5%"),
+        ("maid outfit",                     "~5%"),
     ],
     "Raro / Comum": [
         ("Cupid's Headband",                "5%"),
